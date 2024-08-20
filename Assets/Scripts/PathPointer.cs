@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Mover : MonoBehaviour
+public class PathPointer : MonoBehaviour
 {
     [SerializeField] public Transform _way;
 
